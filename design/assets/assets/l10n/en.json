@@ -728,6 +728,18 @@
     "Quiet hours apply to other reminders only. Prayer reminders stay enabled and end with each prayer window; your device may still restrict delivery.": "Quiet hours apply to other reminders only. Prayer reminders stay enabled and end with each prayer window; your device may still restrict delivery.",
     "Pause other reminders for 24 hours": "Pause other reminders for 24 hours",
     "Other reminders paused until {time}": "Other reminders paused until {time}",
-    "Background delivery also requires Other background notifications in Settings and OS permission. In-app reminders require Gentle in-app popups.": "Background delivery also requires Other background notifications in Settings and OS permission. In-app reminders require Gentle in-app popups."
+    "Background delivery also requires Other background notifications in Settings and OS permission. In-app reminders require Gentle in-app popups.": "Background delivery also requires Other background notifications in Settings and OS permission. In-app reminders require Gentle in-app popups.",
+    "I've prayed {prayer}": "I've prayed {prayer}",
+    "It's time for {prayer}": "It's time for {prayer}",
+    "Reminder {number} · repeats every {minutes} min until you mark Prayed.\nA different ayah or hadith each time.": "Reminder {number} · repeats every {minutes} min until you mark Prayed.\nA different ayah or hadith each time.",
+    "Remind me in {minutes} min": "Remind me in {minutes} min",
+    "Prayer reminders can't be turned off.\nPaused only in period mode.": "Prayer reminders can't be turned off.\nPaused only in period mode.",
+    "Social media today": "Social media today",
+    "Guard on": "Guard on",
+    "Guard off": "Guard off",
+    "Social media today: demo unavailable": "Social media today: demo unavailable",
+    "Today's reminder": "Today's reminder",
+    "Read more": "Read more",
+    "Starts at": "Starts at"
   }
 }

@@ -196,6 +196,18 @@
     "Enjoy this good moment with gratitude, and let some good reach another person.": "কৃতজ্ঞতার সঙ্গে এই সুন্দর মুহূর্তটি উপভোগ করুন, আর কিছু কল্যাণ অন্য কারও কাছে পৌঁছে দিন।",
     "You can make dua and also reach out to someone who cares about you.": "দোয়া করতে পারেন, আর আপনার খেয়াল রাখে এমন কারও সঙ্গে যোগাযোগও করতে পারেন।",
     "Regret can become a beginning: ask forgiveness and choose the next good step.": "অনুশোচনা হতে পারে নতুন শুরু: ক্ষমা চান এবং পরের ভালো পদক্ষেপটি বেছে নিন।",
-    "Rest can be a caring next step; if you wish, begin with a good intention.": "বিশ্রামও হতে পারে যত্নের পরের পদক্ষেপ; চাইলে একটি ভালো নিয়ত দিয়ে শুরু করুন।"
+    "Rest can be a caring next step; if you wish, begin with a good intention.": "বিশ্রামও হতে পারে যত্নের পরের পদক্ষেপ; চাইলে একটি ভালো নিয়ত দিয়ে শুরু করুন।",
+    "I've prayed {prayer}": "আমি {prayer} পড়েছি",
+    "It's time for {prayer}": "এখন {prayer}-এর সময়",
+    "Reminder {number} · repeats every {minutes} min until you mark Prayed.\nA different ayah or hadith each time.": "স্মরণবার্তা {number} · পড়েছেন বলে চিহ্নিত না করা পর্যন্ত প্রতি {minutes} মিনিটে আবার আসবে।\nপ্রতিবার ভিন্ন আয়াত বা হাদিস।",
+    "Remind me in {minutes} min": "{minutes} মিনিট পরে মনে করান",
+    "Prayer reminders can't be turned off.\nPaused only in period mode.": "সালাতের স্মরণবার্তা বন্ধ করা যায় না।\nশুধু পিরিয়ড মোডে বিরতি থাকে।",
+    "Social media today": "আজ সোশ্যাল মিডিয়া",
+    "Guard on": "গার্ড চালু",
+    "Guard off": "গার্ড বন্ধ",
+    "Social media today: demo unavailable": "আজ সোশ্যাল মিডিয়া: ডেমো উপলব্ধ নয়",
+    "Today's reminder": "আজকের স্মরণবার্তা",
+    "Read more": "আরও পড়ুন",
+    "Starts at": "শুরু"
   }
 }
