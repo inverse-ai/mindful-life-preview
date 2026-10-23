@@ -1,6 +1,6 @@
 {
   "sourceRepository": "inverse-ai/quran-learning",
-  "builtAt": "2026-10-23T06:49:43.344Z",
+  "builtAt": "2026-10-23T18:47:56.361Z",
   "files": [
     {
       "path": "web/public/fonts/Harmattan.woff2",
@@ -230,6 +230,6 @@
     "donation prompts",
     "learning navigation"
   ],
-  "bundleSha256": "e01413ce91de84ba909546460a7af00b9dcc2ee0e27289122c6d4dfa8d34a6d2",
-  "bytes": 1526175
+  "bundleSha256": "e3d4501b7a5042df8431ef29d838692788fab698c768e2fe3bd1bfe1591db8c9",
+  "bytes": 1526293
 }
