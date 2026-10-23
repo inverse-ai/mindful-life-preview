@@ -1,0 +1,235 @@
+{
+  "sourceRepository": "inverse-ai/quran-learning",
+  "builtAt": "2026-10-23T06:49:43.344Z",
+  "files": [
+    {
+      "path": "web/public/fonts/Harmattan.woff2",
+      "sha256": "6629bf1a29d672f424e90b2fc49e4d6c42ccfb186e256ed06d1af616a22cda0c"
+    },
+    {
+      "path": "web/public/fonts/KFGQPC-Uthmanic-Hafs.woff2",
+      "sha256": "0051231127dff017d0986181ed3bf42037f4904091ba6eefdc709ff9c14a788f"
+    },
+    {
+      "path": "web/public/fonts/PDMS-Saleem-QuranFont.woff2",
+      "sha256": "19791ec38062f40105f2dd98c9f054b96fd3bb0f76308605ff66c82fd5b5eaa1"
+    },
+    {
+      "path": "web/src/api.ts",
+      "sha256": "688f5046076df92939d87107fd9e9191cfcc0693bf7ba111cea3e59f689585c7"
+    },
+    {
+      "path": "web/src/components/GlobalPlayerBar.tsx",
+      "sha256": "092e216a89254a9b51c3c0fcbffe3ffe06795e85ad939cd256af0bfef82e7919"
+    },
+    {
+      "path": "web/src/components/HighlightedLine.tsx",
+      "sha256": "9ee2912ac281d84cbce668ffbbbbe5c3d1701d8821b086add1d7253811ad0a28"
+    },
+    {
+      "path": "web/src/constants.ts",
+      "sha256": "cac5e7d27cc6678ea6b4c00279819da97117765f59b83e620c140b345ab73933"
+    },
+    {
+      "path": "web/src/contexts/AudioContext.tsx",
+      "sha256": "879e849b1601009c514a027398472deef375bb1fba8740407d537f650e7507f9"
+    },
+    {
+      "path": "web/src/contexts/SettingsContext.tsx",
+      "sha256": "11d9bfedbbb34ab4e7735853b19204da2790adcb2342589d046bccf760eedba2"
+    },
+    {
+      "path": "web/src/data/duas.json",
+      "sha256": "ccbed7a72f0d01a0973711d0417b2ed89c97b195f246953c2fc8e3577405d90e"
+    },
+    {
+      "path": "web/src/data/juz.ts",
+      "sha256": "2e07417258014db6c1bb714e32521ea0c56b8ae6f18de83fc75fc8dc465e7d3a"
+    },
+    {
+      "path": "web/src/data/surahMeta.ts",
+      "sha256": "93703fda0ec433224689b2f785c4ee360de0590d1e5f2267fbb40c847a8afb5a"
+    },
+    {
+      "path": "web/src/data/tajweed.ts",
+      "sha256": "622f13299919c3c8c9455dd6b233363dcbd38d7be774c8ab778247952951d129"
+    },
+    {
+      "path": "web/src/i18n/ar.ts",
+      "sha256": "28f6b37e19652a43482dbcd873c300c4dfad8fce77b377a5ad1dd52266ad8645"
+    },
+    {
+      "path": "web/src/i18n/bn.ts",
+      "sha256": "52f56df70a11d68a4d574dbe8e488a01d0f470bf4bac195c2e354dccc1a67b93"
+    },
+    {
+      "path": "web/src/i18n/duaCounts.ts",
+      "sha256": "c155fa4c46bc1e75cf16e153f49e75bc4523c523af2045e5c0a1d7b9670828db"
+    },
+    {
+      "path": "web/src/i18n/en/common.ts",
+      "sha256": "35ec3676f33ac2ff8d918f10f57ecabec1f72160de181f5bd246ae51ee63556a"
+    },
+    {
+      "path": "web/src/i18n/en/features.ts",
+      "sha256": "f018cbe02d7ca5b6a85cc0b835ca06958f0e663015bd26505f7977bc754bf3ba"
+    },
+    {
+      "path": "web/src/i18n/en/lessons.ts",
+      "sha256": "343e2485b7921825d0f8ad1119a0eb447980025ea8a8908623f2cf06b51c69ef"
+    },
+    {
+      "path": "web/src/i18n/en/reader.ts",
+      "sha256": "95894da35b6a63cd784fa4144a5d61f61a6052522bfbe2de4cc89c9e322bc7ba"
+    },
+    {
+      "path": "web/src/i18n/fr.ts",
+      "sha256": "c818b2b4cb069ce2742284f135c4a5bfaddb60fcfee35132e1e25ec83e480f78"
+    },
+    {
+      "path": "web/src/i18n/id.ts",
+      "sha256": "705ccbfb2e718ddd46264c8044fc5ea0ecb88f780ce5b612c91268687b8d87b5"
+    },
+    {
+      "path": "web/src/i18n/index.ts",
+      "sha256": "3ace2b60aa0eee06da896e788e32a4dcc7ab4d58a7894d3ecedd1faed4814227"
+    },
+    {
+      "path": "web/src/i18n/messages.ts",
+      "sha256": "53dd577b687788da3206706ba0ccb662d2a19fa671323b08b071fc04d154bda3"
+    },
+    {
+      "path": "web/src/i18n/tr.ts",
+      "sha256": "1348eb22c28b16b3c7dac1da77d5bcdbe82d2dbe07d85730c962392c6479ef1e"
+    },
+    {
+      "path": "web/src/i18n/ur.ts",
+      "sha256": "fe5bbd79f04fe8f7bc0210866fc9671d0eb7c77df1843bfa2a949cdb7b7171ab"
+    },
+    {
+      "path": "web/src/i18n/useMessages.ts",
+      "sha256": "32495f92b2d690376c588eb6e4a46a9cb27dd7f06dd67d9d60d29189b6e04e94"
+    },
+    {
+      "path": "web/src/index.css",
+      "sha256": "939d0d0eeca8d0b11c562a5bf16970417d7fd1a3c48ad50befc5db17e8b845fc"
+    },
+    {
+      "path": "web/src/lib/accountBoundary.ts",
+      "sha256": "ed4eba39f39164bf94877c015dbd252c358470675a0ef0326c42708125b558bb"
+    },
+    {
+      "path": "web/src/lib/contentRoutes.ts",
+      "sha256": "9d23c7c4628ac5046d01971d0611596f907759fb7c6c36910eba567a6b504ae2"
+    },
+    {
+      "path": "web/src/lib/duaReading.ts",
+      "sha256": "753a65b8009754cf6f4592fb80905260e1f195dc2d383fce743375cdd0dd9b3e"
+    },
+    {
+      "path": "web/src/lib/duaTopics.ts",
+      "sha256": "95fc0948435008dcde54201e7f1ca4e5037462fa03970429d5bc57a583138c21"
+    },
+    {
+      "path": "web/src/lib/initialStaticPage.ts",
+      "sha256": "cb07ee2dcad65af96b236f503f1f2cc2a3b046fcb362bfc46a0d17a899098523"
+    },
+    {
+      "path": "web/src/lib/itemTags.ts",
+      "sha256": "cdc3f188c2f994fe317e1d5dd802245ffafe2fc2f193da8a16651608a3c1824a"
+    },
+    {
+      "path": "web/src/lib/prayerTimesCache.ts",
+      "sha256": "2bb57e806b10c142fb1ed82694daa19dd2041b82f594c92c3f03dc97c8d140fc"
+    },
+    {
+      "path": "web/src/lib/structured-data.ts",
+      "sha256": "d2358de8f21428f38f17233a7777358682f9fb7cca5ee6d4fd1ae7e437267e6d"
+    },
+    {
+      "path": "web/src/lib/tafsirTypography.ts",
+      "sha256": "fe7fca7c842334733873566b5fee02e6b91728354be5fa37287659752ef03a0e"
+    },
+    {
+      "path": "web/src/lib/tajweed-parser.ts",
+      "sha256": "5cd334457674d31356cbb327dbee70de7ee6e4c22bf82c129f5a1d6f69872d6c"
+    },
+    {
+      "path": "web/src/lib/translationHighlight.ts",
+      "sha256": "4b58cab8cb40116d4be1aa131dfaa16e46a24c88424c3e0613b830e191caa7f0"
+    },
+    {
+      "path": "web/src/lib/userSync.ts",
+      "sha256": "7a95616b39f0f1e16c116bfe50dc6e3375945b91721a21491424b63aa144dd1c"
+    },
+    {
+      "path": "web/src/lib/waqf.ts",
+      "sha256": "6ae9711c59abd99b09d2476fb837aab24a1bdc06335e44cd84f5906f9fd07864"
+    },
+    {
+      "path": "web/src/lib/wordHighlight.ts",
+      "sha256": "5184078d8a16666ce91f0a04b6a689fb953a3ff23396bfc61f2ee897c0042c8d"
+    },
+    {
+      "path": "web/src/lib/wordPronunciation.ts",
+      "sha256": "50d77f9d2acb59948d85157fc99652636b933e7528325d3d03dae3da91732542"
+    },
+    {
+      "path": "web/src/pages/DuaDetailPage.tsx",
+      "sha256": "2340b282e3ec7cda7c6c7023eaa60f3dc49f903877406ca460bda28a8ad3f756"
+    },
+    {
+      "path": "web/src/pages/DuasPage.tsx",
+      "sha256": "e23c12100d73c4d87c8b53541f432762af4b69c3a4ae12f01dd09451343c1a7f"
+    },
+    {
+      "path": "web/src/pages/JuzIndexPage.tsx",
+      "sha256": "11b87b4844122cb2559fd4aeeb03e3e82c17719c1b3f9cb8a161f76992efe1d4"
+    },
+    {
+      "path": "web/src/pages/JuzReaderPage.tsx",
+      "sha256": "1ddaa7a78f54e43ee693d387a8576953827eb2f4e43c485afe68bc2242b1d3fd"
+    },
+    {
+      "path": "web/src/pages/ReaderPage.tsx",
+      "sha256": "934875ef9253e834f237d077addf7a14e13218ad33285c7679228a7f319dcc2f"
+    },
+    {
+      "path": "web/src/pages/SurahListPage.tsx",
+      "sha256": "d78b7833380532ccd16b5e10d915946417f7c03198d2d13197d6ca439141df31"
+    },
+    {
+      "path": "web/src/pages/TafsirIndexPage.tsx",
+      "sha256": "67786267dab15de273f86e43d239fbb8ad03841ea3d0127e07b0c1d40352a9c5"
+    },
+    {
+      "path": "web/src/pages/TafsirPage.tsx",
+      "sha256": "941250bb560414cc9a1af0dedad9dcd41e106137d27e67c6ded69c96e4a37d05"
+    },
+    {
+      "path": "web/src/persistentCache.ts",
+      "sha256": "95867e1883b4da340eb0eef307ce4126752bbabecdea2806180b81be5efb306e"
+    },
+    {
+      "path": "web/src/types.ts",
+      "sha256": "af164c3385cd49eb018d078a89b46cbd0415abcc41f93de6f54a69dff3703ebc"
+    },
+    {
+      "path": "web/src/utils.ts",
+      "sha256": "d4d172c97234031801b53444b80727653034232a785fa372ee8038d891ff52f8"
+    }
+  ],
+  "excluded": [
+    "AppShell",
+    "Firebase Analytics",
+    "presence",
+    "reading telemetry",
+    "recitation telemetry",
+    "account authentication",
+    "web push",
+    "donation prompts",
+    "learning navigation"
+  ],
+  "bundleSha256": "e01413ce91de84ba909546460a7af00b9dcc2ee0e27289122c6d4dfa8d34a6d2",
+  "bytes": 1526175
+}

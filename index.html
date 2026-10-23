@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <base href="/mindful-life-preview/">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="description" content="A private, prayer-centered companion. Interactive Mindful Life preview.">
+  <meta name="theme-color" content="#326757">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Mindful Life">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+  <link rel="icon" type="image/png" href="favicon.png">
+  <link rel="manifest" href="manifest.json">
+  <title>Mindful Life</title>
+  <style>
+    html,body{margin:0;background:#f4f3ed}
+    #preview-loading{position:fixed;inset:0;display:flex;align-items:center;justify-content:center;background:#f4f3ed;color:#253e34;z-index:10;font:16px/1.6 system-ui,-apple-system,sans-serif;padding:28px}
+    #preview-loading>div{max-width:340px;text-align:center}
+    .loading-ring{width:36px;height:36px;border:3px solid #d5e2d7;border-top-color:#326757;border-radius:50%;margin:0 auto 24px;animation:turn 1s linear infinite}
+    h1{font-size:24px;font-weight:500}button{font:inherit;min-height:48px;padding:10px 24px;border:0;border-radius:14px;background:#326757;color:#fff}
+    [hidden]{display:none!important}@keyframes turn{to{transform:rotate(360deg)}}
+    @media(prefers-reduced-motion:reduce){.loading-ring{animation:none}}
+  </style>
+</head><body>
+  <div id="preview-loading" role="status"><div>
+    <div class="loading-ring" aria-hidden="true"></div><h1>Mindful Life</h1>
+    <div id="load-help" hidden><p>The first load can take a little longer. Check your connection and open this link directly in Safari.</p><p lang="bn">প্রথমবার খুলতে কিছুটা সময় লাগতে পারে। ইন্টারনেট সংযোগ দেখুন এবং সাফারিতে লিংকটি খুলুন।</p><button id="reload-preview">Reload · আবার খুলুন</button></div>
+  </div></div>
+  <script src="preview-startup.js"></script>
+  <script src="flutter_bootstrap.js" async></script>
+</body></html>
