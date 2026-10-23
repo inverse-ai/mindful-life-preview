@@ -763,6 +763,21 @@
     "Remind after": "Remind after",
     "Intention check on open": "Intention check on open",
     "Alert after adhan": "Alert after adhan",
-    "Night guard after Isha": "Night guard after Isha"
+    "Night guard after Isha": "Night guard after Isha",
+    "You're opening": "You're opening",
+    "What's your intention?": "What's your intention?",
+    "Intention check": "Intention check",
+    "Open it. The {minutes}-minute reminder still runs.": "Open it. The {minutes}-minute reminder still runs.",
+    "Show me something better to do": "Show me something better to do",
+    "Asked at most once every 30 minutes per app": "Asked at most once every 30 minutes per app",
+    "{minutes} minutes on {app}": "{minutes} minutes on {app}",
+    "Social media reminder": "Social media reminder",
+    "Your time is an amanah. Is this how you want to spend it?": "Your time is an amanah. Is this how you want to spend it?",
+    "The adhan has been called": "The adhan has been called",
+    "It may be a good time to pray.": "It may be a good time to pray.",
+    "Close {app}": "Close {app}",
+    "Pray 2 rakat": "Pray 2 rakat",
+    "One page Quran": "One page Quran",
+    "Walk 5 min": "Walk 5 min"
   }
 }

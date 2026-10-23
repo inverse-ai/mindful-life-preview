@@ -231,6 +231,21 @@
     "Remind after": "মনে করান",
     "Intention check on open": "খোলার সময় নিয়ত যাচাই",
     "Alert after adhan": "আযানের পরে সতর্কতা",
-    "Night guard after Isha": "ইশার পরে রাতের গার্ড"
+    "Night guard after Isha": "ইশার পরে রাতের গার্ড",
+    "You're opening": "আপনি খুলছেন",
+    "What's your intention?": "আপনার নিয়ত কী?",
+    "Intention check": "নিয়ত যাচাই",
+    "Open it. The {minutes}-minute reminder still runs.": "খুলুন। {minutes} মিনিটের স্মরণবার্তা তবুও চলবে।",
+    "Show me something better to do": "আরও ভালো কিছু করার পরামর্শ দিন",
+    "Asked at most once every 30 minutes per app": "প্রতি অ্যাপে ৩০ মিনিটে সর্বোচ্চ একবার জিজ্ঞাসা করা হয়",
+    "{minutes} minutes on {app}": "{app}-এ {minutes} মিনিট",
+    "Social media reminder": "সোশ্যাল মিডিয়া স্মরণবার্তা",
+    "Your time is an amanah. Is this how you want to spend it?": "আপনার সময় একটি আমানত। আপনি কি এভাবেই কাটাতে চান?",
+    "The adhan has been called": "আযান দেওয়া হয়েছে",
+    "It may be a good time to pray.": "এখন সালাত আদায়ের ভালো সময় হতে পারে।",
+    "Close {app}": "{app} বন্ধ করুন",
+    "Pray 2 rakat": "২ রাকাত পড়ুন",
+    "One page Quran": "কুরআনের এক পাতা",
+    "Walk 5 min": "৫ মিনিট হাঁটুন"
   }
 }
