@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "reference": "Surah Al-Asr 103:1–3",
+  "source": {
+    "project": "Iqra (inverse-ai/quran-learning)",
+    "file": "android/app/src/main/assets/quran-offline.deflate",
+    "sha256": "868e881bcb5180e775bbb42c8f714e34908961df7bb603dd1be2fd4280b8bd60"
+  },
+  "verses": [
+    {
+      "key": "103:1",
+      "arabic": "وَٱلْعَصْرِ"
+    },
+    {
+      "key": "103:2",
+      "arabic": "إِنَّ ٱلْإِنسَـٰنَ لَفِى خُسْرٍ"
+    },
+    {
+      "key": "103:3",
+      "arabic": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ"
+    }
+  ],
+  "translations": {
+    "en": {
+      "translator": "Saheeh International",
+      "resourceId": 20,
+      "verses": [
+        "By time,",
+        "Indeed, mankind is in loss,",
+        "Except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience."
+      ]
+    },
+    "bn": {
+      "translator": "Sheikh Mujibur Rahman",
+      "resourceId": 163,
+      "verses": [
+        "মহাকালের শপথ!",
+        "মানুষ অবশ্যই ক্ষতির মধ্যে রয়েছে।",
+        "কিন্তু তারা নয়, যারা ঈমান আনে ও সৎ কাজ করে এবং পরস্পরকে সত্যের উপদেশ দেয় ও ধৈর্য ধারণে পরস্পরকে উদ্ধুদ্ধ করে।"
+      ]
+    }
+  },
+  "review": {
+    "reviewed": true,
+    "basis": "The user explicitly approved including this passage; Arabic, translations, and verse keys are imported from Iqra data."
+  }
+}

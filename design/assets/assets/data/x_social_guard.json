@@ -1,0 +1,583 @@
+{
+  "schemaVersion": 1,
+  "sourcePolicy": "Quran Arabic and translations fetched from the Iqra-configured Quran.com API (translation IDs 20 and 163); Hadith Arabic and English excerpts from Sunnah.com Sahih al-Bukhari. Every entry is awaiting qualified human review.",
+  "entries": [
+    {
+      "id": "quran-96-14",
+      "type": "Quran",
+      "key": "96:14",
+      "theme": [
+        "x-twitter",
+        "allah-sees"
+      ],
+      "arabic": "أَلَمْ يَعْلَم بِأَنَّ ٱللَّهَ يَرَىٰ",
+      "translation": {
+        "en": "Does he not know that Allāh sees?",
+        "bn": "তাহলে সে কি অবগত নয় যে, আল্লাহ দেখছেন?"
+      },
+      "translator": {
+        "en": "Saheeh International",
+        "bn": "Sheikh Mujibur Rahman"
+      },
+      "reference": "Quran 96:14",
+      "source": "Iqra shared Quran.com API",
+      "sourceUrl": "https://api.quran.com/api/v4/verses/by_key/96:14?translations=20,163&fields=text_uthmani",
+      "grading": null,
+      "grader": null,
+      "reviewed": false,
+      "verification": {
+        "referenceChecked": true,
+        "arabicChecked": true,
+        "translationChecked": true,
+        "themeFitChecked": true,
+        "reviewedByQualifiedPerson": false
+      },
+      "fetchedAt": "2026-10-23T19:57:14Z"
+    },
+    {
+      "id": "quran-57-4",
+      "type": "Quran",
+      "key": "57:4",
+      "theme": [
+        "x-twitter",
+        "allah-sees"
+      ],
+      "arabic": "هُوَ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ ۚ يَعْلَمُ مَا يَلِجُ فِى ٱلْأَرْضِ وَمَا يَخْرُجُ مِنْهَا وَمَا يَنزِلُ مِنَ ٱلسَّمَآءِ وَمَا يَعْرُجُ فِيهَا ۖ وَهُوَ مَعَكُمْ أَيْنَ مَا كُنتُمْ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
+      "translation": {
+        "en": "It is He who created the heavens and earth in six days and then established Himself above the Throne.<sup foot_note=197501>1</sup> He knows what penetrates into the earth and what emerges from it and what descends from the heaven and what ascends therein; and He is with you<sup foot_note=197500>2</sup> wherever you are. And Allāh, of what you do, is Seeing.",
+        "bn": "তিনিই ছয় দিনে আকাশমন্ডলী ও পৃথিবী সৃষ্টি করেছেন, অতঃপর আরশে সমাসীন হয়েছেন। তিনি জানেন যা কিছু ভূমিতে প্রবেশ করে এবং যা কিছু তা হতে বের হয় এবং আকাশ হতে যা কিছু নামে ও আকাশে যা কিছু উত্থিত হয়। তোমরা যেখানেই থাক না কেন তিনি তোমাদের সঙ্গে আছেন, তোমরা যা কিছু কর আল্লাহ তা দেখেন।"
+      },
+      "translator": {
+        "en": "Saheeh International",
+        "bn": "Sheikh Mujibur Rahman"
+      },
+      "reference": "Quran 57:4",
+      "source": "Iqra shared Quran.com API",
+      "sourceUrl": "https://api.quran.com/api/v4/verses/by_key/57:4?translations=20,163&fields=text_uthmani",
+      "grading": null,
+      "grader": null,
+      "reviewed": false,
+      "verification": {
+        "referenceChecked": true,
+        "arabicChecked": true,
+        "translationChecked": true,
+        "themeFitChecked": true,
+        "reviewedByQualifiedPerson": false
+      },
+      "fetchedAt": "2026-10-23T19:57:14Z"
+    },
+    {
+      "id": "quran-4-1",
+      "type": "Quran",
+      "key": "4:1",
+      "theme": [
+        "x-twitter",
+        "allah-sees"
+      ],
+      "arabic": "يَـٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمُ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا كَثِيرًا وَنِسَآءً ۚ وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِى تَسَآءَلُونَ بِهِۦ وَٱلْأَرْحَامَ ۚ إِنَّ ٱللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا",
+      "translation": {
+        "en": "O mankind, fear your Lord, who created you from one soul and created from it its mate and dispersed from both of them many men and women. And fear Allāh, through whom<sup foot_note=196086>1</sup> you ask one another,<sup foot_note=196085>2</sup> and the wombs.<sup foot_note=196084>3</sup> Indeed Allāh is ever,<sup foot_note=196083>4</sup> over you, an Observer.<sup foot_note=196082>5</sup>",
+        "bn": "হে মানবমন্ডলী! তোমরা তোমাদের রাব্বকে ভয় কর, যিনি তোমাদেরকে একই ব্যক্তি হতে সৃষ্টি করেছেন এবং তা হতে তদীয় সহধর্মিনী সৃষ্টি করেছেন এবং তাদের উভয় হতে বহু নর ও নারী ছড়িয়ে দিয়েছেন এবং সেই আল্লাহকে ভয় কর যাঁর নামের দোহাই দিয়ে তোমরা একে অপরকে যাঞ্চা কর, এবং আত্মীয়-জ্ঞাতিদের ব্যাপারে সতর্কতা অবলম্বন কর। নিশ্চয়ই আল্লাহই তত্ত্বাবধানকারী।"
+      },
+      "translator": {
+        "en": "Saheeh International",
+        "bn": "Sheikh Mujibur Rahman"
+      },
+      "reference": "Quran 4:1",
+      "source": "Iqra shared Quran.com API",
+      "sourceUrl": "https://api.quran.com/api/v4/verses/by_key/4:1?translations=20,163&fields=text_uthmani",
+      "grading": null,
+      "grader": null,
+      "reviewed": false,
+      "verification": {
+        "referenceChecked": true,
+        "arabicChecked": true,
+        "translationChecked": true,
+        "themeFitChecked": true,
+        "reviewedByQualifiedPerson": false
+      },
+      "fetchedAt": "2026-10-23T19:57:14Z"
+    },
+    {
+      "id": "quran-24-30",
+      "type": "Quran",
+      "key": "24:30",
+      "theme": [
+        "x-twitter",
+        "lowering-gaze"
+      ],
+      "arabic": "قُل لِّلْمُؤْمِنِينَ يَغُضُّوا۟ مِنْ أَبْصَـٰرِهِمْ وَيَحْفَظُوا۟ فُرُوجَهُمْ ۚ ذَٰلِكَ أَزْكَىٰ لَهُمْ ۗ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا يَصْنَعُونَ",
+      "translation": {
+        "en": "Tell the believing men to reduce [some] of their vision<sup foot_note=196895>1</sup> and guard their private parts.<sup foot_note=196894>2</sup> That is purer for them. Indeed, Allāh is [fully] Aware of what they do.",
+        "bn": "মু’মিনদেরকে বলঃ তারা যেন দৃষ্টিকে সংযত করে এবং তাদের লজ্জাস্থানের হিফাযাত করে। এতে তাদের জন্য উত্তম পবিত্রতা রয়েছে; তারা যা করে সেই বিষয়ে আল্লাহ অবহিত।"
+      },
+      "translator": {
+        "en": "Saheeh International",
+        "bn": "Sheikh Mujibur Rahman"
+      },
+      "reference": "Quran 24:30",
+      "source": "Iqra shared Quran.com API",
+      "sourceUrl": "https://api.quran.com/api/v4/verses/by_key/24:30?translations=20,163&fields=text_uthmani",
+      "grading": null,
+      "grader": null,
+      "reviewed": false,
+      "verification": {
+        "referenceChecked": true,
+        "arabicChecked": true,
+        "translationChecked": true,
+        "themeFitChecked": true,
+        "reviewedByQualifiedPerson": false
+      },
+      "fetchedAt": "2026-10-23T19:57:14Z"
+    },
+    {
+      "id": "quran-24-31",
+      "type": "Quran",
+      "key": "24:31",
+      "theme": [
+        "x-twitter",
+        "lowering-gaze"
+      ],
+      "arabic": "وَقُل لِّلْمُؤْمِنَـٰتِ يَغْضُضْنَ مِنْ أَبْصَـٰرِهِنَّ وَيَحْفَظْنَ فُرُوجَهُنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنْهَا ۖ وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّ ۖ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا لِبُعُولَتِهِنَّ أَوْ ءَابَآئِهِنَّ أَوْ ءَابَآءِ بُعُولَتِهِنَّ أَوْ أَبْنَآئِهِنَّ أَوْ أَبْنَآءِ بُعُولَتِهِنَّ أَوْ إِخْوَٰنِهِنَّ أَوْ بَنِىٓ إِخْوَٰنِهِنَّ أَوْ بَنِىٓ أَخَوَٰتِهِنَّ أَوْ نِسَآئِهِنَّ أَوْ مَا مَلَكَتْ أَيْمَـٰنُهُنَّ أَوِ ٱلتَّـٰبِعِينَ غَيْرِ أُو۟لِى ٱلْإِرْبَةِ مِنَ ٱلرِّجَالِ أَوِ ٱلطِّفْلِ ٱلَّذِينَ لَمْ يَظْهَرُوا۟ عَلَىٰ عَوْرَٰتِ ٱلنِّسَآءِ ۖ وَلَا يَضْرِبْنَ بِأَرْجُلِهِنَّ لِيُعْلَمَ مَا يُخْفِينَ مِن زِينَتِهِنَّ ۚ وَتُوبُوٓا۟ إِلَى ٱللَّهِ جَمِيعًا أَيُّهَ ٱلْمُؤْمِنُونَ لَعَلَّكُمْ تُفْلِحُونَ",
+      "translation": {
+        "en": "And tell the believing women to reduce [some] of their vision<sup foot_note=196899>1</sup> and guard their private parts and not expose their adornment<sup foot_note=196898>2</sup> except that which [necessarily] appears thereof<sup foot_note=196897>3</sup> and to wrap [a portion of] their headcovers over their chests and not expose their adornment [i.e., beauty] except to their husbands, their fathers, their husbands' fathers, their sons, their husbands' sons, their brothers, their brothers' sons, their sisters' sons, their women, that which their right hands possess [i.e., slaves], or those male attendants having no physical desire,<sup foot_note=196896>4</sup> or children who are not yet aware of the private aspects of women. And let them not stamp their feet to make known what they conceal of their adornment. And turn to Allāh in repentance, all of you, O believers, that you might succeed.",
+        "bn": "ঈমান আনয়নকারিনী নারীদেরকে বলঃ তারা যেন তাদের দৃষ্টিকে এবং তাদের লজ্জাস্থানের হিফাযাত করে। তারা যেন যা সাধারণতঃ প্রকাশমান তা ব্যতীত তাদের সৌন্দর্য প্রদর্শন না করে। তাদের গ্রীবা ও বক্ষদেশ যেন মাথার কাপড় দ্বারা আবৃত করে। তারা যেন তাদের স্বামী, পিতা, শ্বশুর, পুত্র, স্বামীর পুত্র, ভাই, ভ্রাতুস্পুত্র, ভগ্নীপুত্র, আপন নারীগণ, তাদের মালিকানাধীন দাসী, পুরুষদের মধ্যে যৌন কামনা রহিত পুরুষ এবং নারীদের গোপন অঙ্গ সম্বন্ধে অজ্ঞ বালক ব্যতীত কারও নিকট তাদের আভরণ প্রকাশ না করে। তারা যেন তাদের গোপন আভরণ প্রকাশের উদ্দেশে সজোরে পদক্ষেপ না ফেলে। হে মু’মিনগণ! তোমরা সবাই আল্লাহর দিকে প্রত্যাবর্তন কর, যাতে তোমরা সফলকাম হতে পার।"
+      },
+      "translator": {
+        "en": "Saheeh International",
+        "bn": "Sheikh Mujibur Rahman"
+      },
+      "reference": "Quran 24:31",
+      "source": "Iqra shared Quran.com API",
+      "sourceUrl": "https://api.quran.com/api/v4/verses/by_key/24:31?translations=20,163&fields=text_uthmani",
+      "grading": null,
+      "grader": null,
+      "reviewed": false,
+      "verification": {
+        "referenceChecked": true,
+        "arabicChecked": true,
+        "translationChecked": true,
+        "themeFitChecked": true,
+        "reviewedByQualifiedPerson": false
+      },
+      "fetchedAt": "2026-10-23T19:57:14Z"
+    },
+    {
+      "id": "quran-17-32",
+      "type": "Quran",
+      "key": "17:32",
+      "theme": [
+        "x-twitter",
+        "lowering-gaze"
+      ],
+      "arabic": "وَلَا تَقْرَبُوا۟ ٱلزِّنَىٰٓ ۖ إِنَّهُۥ كَانَ فَـٰحِشَةً وَسَآءَ سَبِيلًا",
+      "translation": {
+        "en": "And do not approach unlawful sexual intercourse.<sup foot_note=196654>1</sup> Indeed, it is ever an immorality and is evil as a way.",
+        "bn": "তোমরা অবৈধ যৌন সংযোগের নিকটবর্তী হয়োনা, ওটা অশ্লীল ও নিকৃষ্ট আচরণ।"
+      },
+      "translator": {
+        "en": "Saheeh International",
+        "bn": "Sheikh Mujibur Rahman"
+      },
+      "reference": "Quran 17:32",
+      "source": "Iqra shared Quran.com API",
+      "sourceUrl": "https://api.quran.com/api/v4/verses/by_key/17:32?translations=20,163&fields=text_uthmani",
+      "grading": null,
+      "grader": null,
+      "reviewed": false,
+      "verification": {
+        "referenceChecked": true,
+        "arabicChecked": true,
+        "translationChecked": true,
+        "themeFitChecked": true,
+        "reviewedByQualifiedPerson": false
+      },
+      "fetchedAt": "2026-10-23T19:57:14Z"
+    },
+    {
+      "id": "quran-6-151",
+      "type": "Quran",
+      "key": "6:151",
+      "theme": [
+        "x-twitter",
+        "lowering-gaze"
+      ],
+      "arabic": "۞ قُلْ تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ ۖ أَلَّا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا ۖ وَبِٱلْوَٰلِدَيْنِ إِحْسَـٰنًا ۖ وَلَا تَقْتُلُوٓا۟ أَوْلَـٰدَكُم مِّنْ إِمْلَـٰقٍ ۖ نَّحْنُ نَرْزُقُكُمْ وَإِيَّاهُمْ ۖ وَلَا تَقْرَبُوا۟ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ ۖ وَلَا تَقْتُلُوا۟ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ ۚ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَعْقِلُونَ",
+      "translation": {
+        "en": "Say, \"Come, I will recite what your Lord has prohibited to you. [He commands] that you not associate anything with Him, and to parents, good treatment, and do not kill your children out of poverty; We will provide for you and them. And do not approach immoralities - what is apparent of them and what is concealed. And do not kill the soul which Allāh has forbidden [to be killed] except by [legal] right. This has He instructed you that you may use reason.\"",
+        "bn": "লোকদেরকে বলঃ তোমরা এসো! তোমাদের রাব্ব তোমাদের প্রতি কি কি বিধি-নিষেধ আরোপ করেছেন তা আমি তোমাদেরকে পাঠ করে শোনাই; তা এই যে, তোমরা তাঁর সাথে কেহকেই শরীক করবেনা, মাতা-পিতার সাথে সদ্ব্যবহার করবে, দারিদ্রতার ভয়ে নিজেদের সন্তানদেরকে হত্যা করবেনা। কেননা আমিই তোমাদেরকে ও তাদেরকে জীবিকা দিই; আর অশ্লীল কাজ ও কথার নিকটেও যেওনা, তা প্রকাশ্যই হোক কিংবা গোপনীয়ই হোক, আর আল্লাহ যার হত্যা নিষিদ্ধ করেছেন - যথার্থ কারণ ছাড়া তাকে হত্যা করনা। এসব বিষয় আল্লাহ তোমাদেরকে নির্দেশ দিয়েছেন, যেন তোমরা অনুধাবন করতে পার।"
+      },
+      "translator": {
+        "en": "Saheeh International",
+        "bn": "Sheikh Mujibur Rahman"
+      },
+      "reference": "Quran 6:151",
+      "source": "Iqra shared Quran.com API",
+      "sourceUrl": "https://api.quran.com/api/v4/verses/by_key/6:151?translations=20,163&fields=text_uthmani",
+      "grading": null,
+      "grader": null,
+      "reviewed": false,
+      "verification": {
+        "referenceChecked": true,
+        "arabicChecked": true,
+        "translationChecked": true,
+        "themeFitChecked": true,
+        "reviewedByQualifiedPerson": false
+      },
+      "fetchedAt": "2026-10-23T19:57:14Z"
+    },
+    {
+      "id": "quran-103-1",
+      "type": "Quran",
+      "key": "103:1",
+      "theme": [
+        "x-twitter",
+        "value-of-time"
+      ],
+      "arabic": "وَٱلْعَصْرِ",
+      "translation": {
+        "en": "By time,<sup foot_note=197812>1</sup>",
+        "bn": "মহাকালের শপথ!"
+      },
+      "translator": {
+        "en": "Saheeh International",
+        "bn": "Sheikh Mujibur Rahman"
+      },
+      "reference": "Quran 103:1",
+      "source": "Iqra shared Quran.com API",
+      "sourceUrl": "https://api.quran.com/api/v4/verses/by_key/103:1?translations=20,163&fields=text_uthmani",
+      "grading": null,
+      "grader": null,
+      "reviewed": false,
+      "verification": {
+        "referenceChecked": true,
+        "arabicChecked": true,
+        "translationChecked": true,
+        "themeFitChecked": true,
+        "reviewedByQualifiedPerson": false
+      },
+      "fetchedAt": "2026-10-23T19:57:14Z"
+    },
+    {
+      "id": "quran-103-2",
+      "type": "Quran",
+      "key": "103:2",
+      "theme": [
+        "x-twitter",
+        "value-of-time"
+      ],
+      "arabic": "إِنَّ ٱلْإِنسَـٰنَ لَفِى خُسْرٍ",
+      "translation": {
+        "en": "Indeed, mankind is in loss,",
+        "bn": "মানুষ অবশ্যই ক্ষতির মধ্যে রয়েছে।"
+      },
+      "translator": {
+        "en": "Saheeh International",
+        "bn": "Sheikh Mujibur Rahman"
+      },
+      "reference": "Quran 103:2",
+      "source": "Iqra shared Quran.com API",
+      "sourceUrl": "https://api.quran.com/api/v4/verses/by_key/103:2?translations=20,163&fields=text_uthmani",
+      "grading": null,
+      "grader": null,
+      "reviewed": false,
+      "verification": {
+        "referenceChecked": true,
+        "arabicChecked": true,
+        "translationChecked": true,
+        "themeFitChecked": true,
+        "reviewedByQualifiedPerson": false
+      },
+      "fetchedAt": "2026-10-23T19:57:14Z"
+    },
+    {
+      "id": "quran-103-3",
+      "type": "Quran",
+      "key": "103:3",
+      "theme": [
+        "x-twitter",
+        "value-of-time"
+      ],
+      "arabic": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ",
+      "translation": {
+        "en": "Except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience.",
+        "bn": "কিন্তু তারা নয়, যারা ঈমান আনে ও সৎ কাজ করে এবং পরস্পরকে সত্যের উপদেশ দেয় ও ধৈর্য ধারণে পরস্পরকে উদ্ধুদ্ধ করে।"
+      },
+      "translator": {
+        "en": "Saheeh International",
+        "bn": "Sheikh Mujibur Rahman"
+      },
+      "reference": "Quran 103:3",
+      "source": "Iqra shared Quran.com API",
+      "sourceUrl": "https://api.quran.com/api/v4/verses/by_key/103:3?translations=20,163&fields=text_uthmani",
+      "grading": null,
+      "grader": null,
+      "reviewed": false,
+      "verification": {
+        "referenceChecked": true,
+        "arabicChecked": true,
+        "translationChecked": true,
+        "themeFitChecked": true,
+        "reviewedByQualifiedPerson": false
+      },
+      "fetchedAt": "2026-10-23T19:57:14Z"
+    },
+    {
+      "id": "quran-23-115",
+      "type": "Quran",
+      "key": "23:115",
+      "theme": [
+        "x-twitter",
+        "value-of-time"
+      ],
+      "arabic": "أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَـٰكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا لَا تُرْجَعُونَ",
+      "translation": {
+        "en": "Then did you think that We created you uselessly and that to Us you would not be returned?\"",
+        "bn": "তোমরা কি মনে করেছিলে যে, আমি তোমাদেরকে অনর্থক সৃষ্টি করেছি এবং তোমরা আমার নিকট প্রত্যাবর্তিত হবেনা?"
+      },
+      "translator": {
+        "en": "Saheeh International",
+        "bn": "Sheikh Mujibur Rahman"
+      },
+      "reference": "Quran 23:115",
+      "source": "Iqra shared Quran.com API",
+      "sourceUrl": "https://api.quran.com/api/v4/verses/by_key/23:115?translations=20,163&fields=text_uthmani",
+      "grading": null,
+      "grader": null,
+      "reviewed": false,
+      "verification": {
+        "referenceChecked": true,
+        "arabicChecked": true,
+        "translationChecked": true,
+        "themeFitChecked": true,
+        "reviewedByQualifiedPerson": false
+      },
+      "fetchedAt": "2026-10-23T19:57:14Z"
+    },
+    {
+      "id": "quran-49-6",
+      "type": "Quran",
+      "key": "49:6",
+      "theme": [
+        "x-twitter",
+        "verify-news"
+      ],
+      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن جَآءَكُمْ فَاسِقٌۢ بِنَبَإٍ فَتَبَيَّنُوٓا۟ أَن تُصِيبُوا۟ قَوْمًۢا بِجَهَـٰلَةٍ فَتُصْبِحُوا۟ عَلَىٰ مَا فَعَلْتُمْ نَـٰدِمِينَ",
+      "translation": {
+        "en": "O you who have believed, if there comes to you a disobedient one with information, investigate, lest you harm a people out of ignorance and become, over what you have done, regretful.",
+        "bn": "হে মু’মিনগণ! যদি কোন পাপাচারী তোমাদের নিকট কোন বার্তা আনয়ণ করে, তোমরা তা পরীক্ষা করে দেখবে যাতে অজ্ঞতা বশতঃ তোমরা কোন সম্প্রদায়কে ক্ষতিগ্রস্ত না কর এবং পরে তোমাদের কৃতকর্মের জন্য অনুতপ্ত না হও।"
+      },
+      "translator": {
+        "en": "Saheeh International",
+        "bn": "Sheikh Mujibur Rahman"
+      },
+      "reference": "Quran 49:6",
+      "source": "Iqra shared Quran.com API",
+      "sourceUrl": "https://api.quran.com/api/v4/verses/by_key/49:6?translations=20,163&fields=text_uthmani",
+      "grading": null,
+      "grader": null,
+      "reviewed": false,
+      "verification": {
+        "referenceChecked": true,
+        "arabicChecked": true,
+        "translationChecked": true,
+        "themeFitChecked": true,
+        "reviewedByQualifiedPerson": false
+      },
+      "fetchedAt": "2026-10-23T19:57:14Z"
+    },
+    {
+      "id": "quran-17-36",
+      "type": "Quran",
+      "key": "17:36",
+      "theme": [
+        "x-twitter",
+        "verify-news"
+      ],
+      "arabic": "وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِۦ عِلْمٌ ۚ إِنَّ ٱلسَّمْعَ وَٱلْبَصَرَ وَٱلْفُؤَادَ كُلُّ أُو۟لَـٰٓئِكَ كَانَ عَنْهُ مَسْـُٔولًا",
+      "translation": {
+        "en": "And do not pursue<sup foot_note=196658>1</sup> that of which you have no knowledge. Indeed, the hearing, the sight and the heart - about all those [one] will be questioned.",
+        "bn": "যে বিষয়ে তোমার কোন জ্ঞান নেই সেই বিষয়ে অনুমান দ্বারা পরিচালিত হয়োনা। কর্ণ, চক্ষু, হৃদয় - ওদের প্রত্যেকের নিকট কৈফিয়ত তলব করা হবে।"
+      },
+      "translator": {
+        "en": "Saheeh International",
+        "bn": "Sheikh Mujibur Rahman"
+      },
+      "reference": "Quran 17:36",
+      "source": "Iqra shared Quran.com API",
+      "sourceUrl": "https://api.quran.com/api/v4/verses/by_key/17:36?translations=20,163&fields=text_uthmani",
+      "grading": null,
+      "grader": null,
+      "reviewed": false,
+      "verification": {
+        "referenceChecked": true,
+        "arabicChecked": true,
+        "translationChecked": true,
+        "themeFitChecked": true,
+        "reviewedByQualifiedPerson": false
+      },
+      "fetchedAt": "2026-10-23T19:57:14Z"
+    },
+    {
+      "id": "quran-33-70",
+      "type": "Quran",
+      "key": "33:70",
+      "theme": [
+        "x-twitter",
+        "verify-news",
+        "guarding-tongue"
+      ],
+      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَقُولُوا۟ قَوْلًا سَدِيدًا",
+      "translation": {
+        "en": "O you who have believed, fear Allāh and speak words of appropriate justice.",
+        "bn": "হে মু’মিনগণ! আল্লাহকে ভয় কর এবং সঠিক কথা বল।"
+      },
+      "translator": {
+        "en": "Saheeh International",
+        "bn": "Sheikh Mujibur Rahman"
+      },
+      "reference": "Quran 33:70",
+      "source": "Iqra shared Quran.com API",
+      "sourceUrl": "https://api.quran.com/api/v4/verses/by_key/33:70?translations=20,163&fields=text_uthmani",
+      "grading": null,
+      "grader": null,
+      "reviewed": false,
+      "verification": {
+        "referenceChecked": true,
+        "arabicChecked": true,
+        "translationChecked": true,
+        "themeFitChecked": true,
+        "reviewedByQualifiedPerson": false
+      },
+      "fetchedAt": "2026-10-23T19:57:14Z"
+    },
+    {
+      "id": "quran-49-11",
+      "type": "Quran",
+      "key": "49:11",
+      "theme": [
+        "x-twitter",
+        "avoid-mockery-backbiting"
+      ],
+      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا يَسْخَرْ قَوْمٌ مِّن قَوْمٍ عَسَىٰٓ أَن يَكُونُوا۟ خَيْرًا مِّنْهُمْ وَلَا نِسَآءٌ مِّن نِّسَآءٍ عَسَىٰٓ أَن يَكُنَّ خَيْرًا مِّنْهُنَّ ۖ وَلَا تَلْمِزُوٓا۟ أَنفُسَكُمْ وَلَا تَنَابَزُوا۟ بِٱلْأَلْقَـٰبِ ۖ بِئْسَ ٱلِٱسْمُ ٱلْفُسُوقُ بَعْدَ ٱلْإِيمَـٰنِ ۚ وَمَن لَّمْ يَتُبْ فَأُو۟لَـٰٓئِكَ هُمُ ٱلظَّـٰلِمُونَ",
+      "translation": {
+        "en": "O you who have believed, let not a people ridicule [another] people; perhaps they may be better than them; nor let women ridicule [other] women; perhaps they may be better than them. And do not insult one another and do not call each other by [offensive] nicknames. Wretched is the name [i.e., mention] of disobedience after [one's] faith. And whoever does not repent - then it is those who are the wrongdoers.",
+        "bn": "হে মু’মিনগণ! কোন পুরুষ যেন অপর কোন পুরুষকে উপহাস না করে; কেননা যাকে উপহাস করা হয় সে উপহাসকারী অপেক্ষা উত্তম হতে পারে এবং কোন মহিলা অপর কোন মহিলাকেও যেন উপহাস না করে; কেননা যাকে উপহাস করা হয় সে উপহাসকারিনী অপেক্ষা উত্তম হতে পারে। তোমরা একে অপরের প্রতি দোষারোপ করনা এবং তোমরা একে অপরকে মন্দ নামে ডেকনা; ঈমান আনার পর মন্দ নামে ডাকা গর্হিত কাজ। যারা এ ধরণের আচরণ হতে নিবৃত্ত না হয় তারাই যালিম।"
+      },
+      "translator": {
+        "en": "Saheeh International",
+        "bn": "Sheikh Mujibur Rahman"
+      },
+      "reference": "Quran 49:11",
+      "source": "Iqra shared Quran.com API",
+      "sourceUrl": "https://api.quran.com/api/v4/verses/by_key/49:11?translations=20,163&fields=text_uthmani",
+      "grading": null,
+      "grader": null,
+      "reviewed": false,
+      "verification": {
+        "referenceChecked": true,
+        "arabicChecked": true,
+        "translationChecked": true,
+        "themeFitChecked": true,
+        "reviewedByQualifiedPerson": false
+      },
+      "fetchedAt": "2026-10-23T19:57:14Z"
+    },
+    {
+      "id": "quran-49-12",
+      "type": "Quran",
+      "key": "49:12",
+      "theme": [
+        "x-twitter",
+        "avoid-mockery-backbiting"
+      ],
+      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱجْتَنِبُوا۟ كَثِيرًا مِّنَ ٱلظَّنِّ إِنَّ بَعْضَ ٱلظَّنِّ إِثْمٌ ۖ وَلَا تَجَسَّسُوا۟ وَلَا يَغْتَب بَّعْضُكُم بَعْضًا ۚ أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًا فَكَرِهْتُمُوهُ ۚ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ تَوَّابٌ رَّحِيمٌ",
+      "translation": {
+        "en": "O you who have believed, avoid much [negative] assumption. Indeed, some assumption is sin. And do not spy or backbite each other. Would one of you like to eat the flesh of his brother when dead? You would detest it. And fear Allāh; indeed, Allāh is Accepting of Repentance and Merciful.",
+        "bn": "হে মু’মিনগণ! তোমরা বহুবিধ অনুমান হতে দূরে থাক; কারণ অনুমান কোন কোন ক্ষেত্রে পাপ এবং তোমরা একে অপরের গোপনীয় বিষয় অনুসন্ধান করনা এবং একে অপরের পশ্চাতে নিন্দা করনা। তোমাদের মধ্যে কি কেহ তার মৃত ভাইয়ের মাংস ভক্ষণ করতে চায়? বস্তুতঃ তোমরাতো এটাকে ঘৃণাই মনে কর। তোমরা আল্লাহকে ভয় কর। আল্লাহ তাওবাহ গ্রহণকারী, পরম দয়ালু।"
+      },
+      "translator": {
+        "en": "Saheeh International",
+        "bn": "Sheikh Mujibur Rahman"
+      },
+      "reference": "Quran 49:12",
+      "source": "Iqra shared Quran.com API",
+      "sourceUrl": "https://api.quran.com/api/v4/verses/by_key/49:12?translations=20,163&fields=text_uthmani",
+      "grading": null,
+      "grader": null,
+      "reviewed": false,
+      "verification": {
+        "referenceChecked": true,
+        "arabicChecked": true,
+        "translationChecked": true,
+        "themeFitChecked": true,
+        "reviewedByQualifiedPerson": false
+      },
+      "fetchedAt": "2026-10-23T19:57:14Z"
+    },
+    {
+      "id": "hadith-bukhari-50-ihsan-x",
+      "type": "Hadith",
+      "key": "bukhari:50",
+      "theme": [
+        "x-twitter",
+        "allah-sees",
+        "ihsan"
+      ],
+      "arabic": "أَنْ تَعْبُدَ اللَّهَ كَأَنَّكَ تَرَاهُ، فَإِنْ لَمْ تَكُنْ تَرَاهُ فَإِنَّهُ يَرَاكَ",
+      "translation": {
+        "en": "To worship Allah as if you see Him; if you cannot achieve this state of devotion, consider that He is looking at you."
+      },
+      "translator": {
+        "en": "Muhammad Muhsin Khan"
+      },
+      "reference": "Sahih al-Bukhari 50",
+      "source": "Sunnah.com",
+      "sourceUrl": "https://sunnah.com/bukhari:50",
+      "grading": "Sahih",
+      "grader": "Sahih al-Bukhari collection",
+      "reviewed": false,
+      "verification": {
+        "referenceChecked": true,
+        "arabicChecked": true,
+        "translationChecked": true,
+        "gradingChecked": true,
+        "themeFitChecked": true,
+        "reviewedByQualifiedPerson": false
+      },
+      "fetchedAt": "2026-10-23T19:57:14Z"
+    },
+    {
+      "id": "hadith-bukhari-6018-guard-tongue-x",
+      "type": "Hadith",
+      "key": "bukhari:6018",
+      "theme": [
+        "x-twitter",
+        "guarding-tongue",
+        "avoid-mockery-backbiting"
+      ],
+      "arabic": "فَلْيَقُلْ خَيْرًا أَوْ لِيَصْمُتْ",
+      "translation": {
+        "en": "Speak what is good or keep quiet."
+      },
+      "translator": {
+        "en": "Muhammad Muhsin Khan"
+      },
+      "reference": "Sahih al-Bukhari 6018",
+      "source": "Sunnah.com",
+      "sourceUrl": "https://sunnah.com/bukhari:6018",
+      "grading": "Sahih",
+      "grader": "Sahih al-Bukhari collection",
+      "reviewed": false,
+      "verification": {
+        "referenceChecked": true,
+        "arabicChecked": true,
+        "translationChecked": true,
+        "gradingChecked": true,
+        "themeFitChecked": true,
+        "reviewedByQualifiedPerson": false
+      },
+      "fetchedAt": "2026-10-23T19:57:14Z"
+    }
+  ]
+}
