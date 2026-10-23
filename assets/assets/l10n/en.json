@@ -569,6 +569,8 @@
     "Your Iqra reminder is ready. Open Today to read the Quran and Dhikr cards from Iqra.": "Your Iqra reminder is ready. Open Today to read the Quran and Dhikr cards from Iqra.",
     "Content and source references appear on the cards.": "Content and source references appear on the cards.",
     "Open Today": "Open Today",
-    "{percent}% of the prayer window has passed": "{percent}% of the prayer window has passed"
+    "{percent}% of the prayer window has passed": "{percent}% of the prayer window has passed",
+    "Quran Arabic and translation from Iqra · {translator}": "Quran Arabic and translation from Iqra · {translator}",
+    "Reference from Iqra": "Reference from Iqra"
   }
 }

@@ -209,6 +209,8 @@
     "Your Iqra reminder is ready. Open Today to read the Quran and Dhikr cards from Iqra.": "আপনার Iqra স্মরণবার্তা প্রস্তুত। Iqra থেকে কুরআন ও যিকিরের কার্ড পড়তে Today খুলুন।",
     "Content and source references appear on the cards.": "কার্ডগুলোতে বিষয়বস্তু ও সূত্রের উল্লেখ রয়েছে।",
     "Open Today": "Today খুলুন",
-    "{percent}% of the prayer window has passed": "সালাতের সময়সীমার {percent}% পার হয়েছে"
+    "{percent}% of the prayer window has passed": "সালাতের সময়সীমার {percent}% পার হয়েছে",
+    "Quran Arabic and translation from Iqra · {translator}": "Iqra থেকে কুরআনের আরবি ও অনুবাদ · {translator}",
+    "Reference from Iqra": "Iqra থেকে সূত্র"
   }
 }
